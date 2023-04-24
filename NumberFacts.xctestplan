@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "75B724A9-DF70-4C41-AC21-BF09AD0BB175",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:NumberFacts.xcodeproj",
+        "identifier" : "8BC79DC229F71B5400D73A08",
+        "name" : "NumberFactsTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:NumberFacts.xcodeproj",
+        "identifier" : "8BC79DCC29F71B5500D73A08",
+        "name" : "NumberFactsUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
